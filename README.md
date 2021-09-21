@@ -1,4 +1,4 @@
-# Streams Extractor Bot
+# Streams Extractor Bot ⚡
 
 <p align="center">
   <a href="https://www.python.org">
